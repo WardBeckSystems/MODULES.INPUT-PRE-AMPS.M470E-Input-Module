@@ -22,7 +22,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Words (OCR):** 53 in 42 lines: P2 · 444 · CRI · Rixt · Rso · 844 · Ri3s · 43 · 8E8 · 02 Pn · ~CR7 · 49&
 - **Title block:** (213, 14)–(255, 54) mm: cKD · Tols _
 
-Every curve, box, word and wire group: [1984 - M470E - 8470-06-005 - SOC UHZ MATT JLDER SIDE (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%208470-06-005%20-%20SOC%20UHZ%20MATT%20JLDER%20SIDE%20(traced).json) (the CAD file: `1984 - M470E - 8470-06-005 - SOC UHZ MATT JLDER SIDE (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 8470-06-005 - SOC UHZ MATT JLDER SIDE (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%208470-06-005%20-%20SOC%20UHZ%20MATT%20JLDER%20SIDE%20%28traced%29.json) (the CAD file: `1984 - M470E - 8470-06-005 - SOC UHZ MATT JLDER SIDE (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Title block:** (116, 14)–(333, 116) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.JR/o7/84 · ENG ELJ · INPUT · MODULE · CKD: · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 470-01-006
 - **Wiring (first pass):** 137 connected wire groups from 365 runs; labelled ends: 272 mm → output, BRIDGING; 261 mm → BST; 161 mm → PEAK, INDICATOR; 101 mm → PEAK, INDICATOR; 40 mm → BST, FADER, ~I5dB)
 
-Every curve, box, word and wire group: [1984 - M470E - 470-01-006 - CONTROL SUMMING BUS (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-01-006%20-%20CONTROL%20SUMMING%20BUS%20(traced).json) (the CAD file: `1984 - M470E - 470-01-006 - CONTROL SUMMING BUS (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-01-006 - CONTROL SUMMING BUS (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-01-006%20-%20CONTROL%20SUMMING%20BUS%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-01-006 - CONTROL SUMMING BUS (traced).dxf`).
 
 ## Full text
 

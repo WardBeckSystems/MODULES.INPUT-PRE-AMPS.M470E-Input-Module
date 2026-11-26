@@ -21,7 +21,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Dots (junctions):** 4
 - **Words (OCR):** 41 in 28 lines: 944 · 40 @ · 184 · 140 · 18 · Jg · a*84 · 498 49 · 38& · 80 · 82 · #8qa
 
-Every curve, box, word and wire group: [1984 - M470E - 470-06-012 - FINAL ASSEMBY ADP THE FOLLOWING CON (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-06-012%20-%20FINAL%20ASSEMBY%20ADP%20THE%20FOLLOWING%20CON%20(traced).json) (the CAD file: `1984 - M470E - 470-06-012 - FINAL ASSEMBY ADP THE FOLLOWING CON (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-06-012 - FINAL ASSEMBY ADP THE FOLLOWING CON (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-06-012%20-%20FINAL%20ASSEMBY%20ADP%20THE%20FOLLOWING%20CON%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-06-012 - FINAL ASSEMBY ADP THE FOLLOWING CON (traced).dxf`).
 
 ## Full text
 

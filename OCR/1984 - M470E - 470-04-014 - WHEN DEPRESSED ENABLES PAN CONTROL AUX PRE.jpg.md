@@ -20,7 +20,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Closed boxes:** 14; named: INPUT SELEcTOR suitch Sw} When depressed; INPUT   SELECTOR shi tch Hhen depressed,; PAD insertion shitch Khen Oepressed, ins; DS2 : wil indicate PEAK OVERLOAD indicat; Swio, PRE / Post AUX ILIARY sui tches Sw; Aux iliary AssignhEnt Sw26 switches Sw23; Sw22: switch Hhen depressed, the igna| S
 - **Words (OCR):** 126 in 68 lines: Wos · Matoe · INPUT SELEcTOR suitch Sw} When depressed, connec[$ · Line source · input · unit · INPUT   SELECTOR shi tch · Hhen depressed, connects · hicrophone #2 · input unit_ · 81 · unithen depressed, connect$
 
-Every curve, box, word and wire group: [1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20WHEN%20DEPRESSED%20ENABLES%20PAN%20CONTROL%20AUX%20PRE%20(traced).json) (the CAD file: `1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20WHEN%20DEPRESSED%20ENABLES%20PAN%20CONTROL%20AUX%20PRE%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE (traced).dxf`).
 
 ## Full text
 

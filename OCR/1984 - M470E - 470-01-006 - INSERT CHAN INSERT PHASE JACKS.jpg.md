@@ -21,7 +21,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Words (OCR):** 42 in 35 lines: miciline · SELECTOR · mic input · 60/-10 dBm · 150 Ohms · Mic · MVte · Mic PAD · inseRT CHAN · mic 2 input · INSERT · PHASE
 - **Wiring (first pass):** 141 connected wire groups from 287 runs; labelled ends: 70 mm → miciline, SELECTOR; 67 mm → BST, 100 Hz, (150 Hz ), 70 Hz; 50 mm → SENSitivity, (150 Hz ), Hp; 35 mm → Pre; 25 mm → miciline, SELECTOR, input, 60/-10 dBm
 
-Every curve, box, word and wire group: [1984 - M470E - 470-01-006 - INSERT CHAN INSERT PHASE JACKS (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-01-006%20-%20INSERT%20CHAN%20INSERT%20PHASE%20JACKS%20(traced).json) (the CAD file: `1984 - M470E - 470-01-006 - INSERT CHAN INSERT PHASE JACKS (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-01-006 - INSERT CHAN INSERT PHASE JACKS (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-01-006%20-%20INSERT%20CHAN%20INSERT%20PHASE%20JACKS%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-01-006 - INSERT CHAN INSERT PHASE JACKS (traced).dxf`).
 
 ## Full text
 

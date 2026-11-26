@@ -20,7 +20,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Words (OCR):** 89 in 74 lines: P2 · LINE IN · LINE in · NC · NC · D IRECT · D RECT · SHIELD · SHIELD · Att   OUt · AtT  Out · CH ON IN
 - **Title block:** (115, 13)–(334, 115) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: JP/o7/841 · M47OE · ENG. · INPUT MODULE · CKD: · CONNECTOR REAR VIEW · APP · SCALE · ISSUE · 470-04-013
 
-Every curve, box, word and wire group: [1984 - M470E - 470-04-013 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1984%20-%20M470E%20-%20470-04-013%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1984 - M470E - 470-04-013 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-04-013 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1984%20-%20M470E%20-%20470-04-013%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-04-013 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

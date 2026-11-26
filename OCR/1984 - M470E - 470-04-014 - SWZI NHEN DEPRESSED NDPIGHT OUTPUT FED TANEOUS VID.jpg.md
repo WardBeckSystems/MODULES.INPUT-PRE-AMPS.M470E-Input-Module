@@ -22,7 +22,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Words (OCR):** 150 in 94 lines: 4atoe · Pigkt Outdut 5!gna · Is fed $ imu [taneous · S018 to 54zi: · resistors [0 · tereo SUBHASTER · nq buses 51.52.5} · Indror · 54 resdectively- · High PASS filter switch · d8 /octave High-Pass · Hnen
 - **Title block:** (229, 0)–(336, 57) mm: LISSUE DATE · REVISION · WBS · WARD-BECK SYSTEMS · INPUT MODule · ENG · CKD · FRONT PANEL · 4PP · SCALE · ISSUE · 470-04-014
 
-Every curve, box, word and wire group: [1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20SWZI%20NHEN%20DEPRESSED%20NDPIGHT%20OUTPUT%20FED%20TANEOUS%20VID%20(traced).json) (the CAD file: `1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20SWZI%20NHEN%20DEPRESSED%20NDPIGHT%20OUTPUT%20FED%20TANEOUS%20VID%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID (traced).dxf`).
 
 ## Full text
 

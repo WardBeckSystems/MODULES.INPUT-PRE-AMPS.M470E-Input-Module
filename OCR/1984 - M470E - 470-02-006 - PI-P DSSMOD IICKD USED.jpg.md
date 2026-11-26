@@ -24,7 +24,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Title block:** (126, 6)–(288, 53) mm: CKD · USED ON · MatL · WBS WAAD-Beck bybteMB LTD: · DRN · JR · Mazoe · DATE 6JULY/84 · INPUT · CKD · SCHEMATIC · SCALE · TOLS _ · LBI 470- · 02 - 006
 - **Wiring (first pass):** 153 connected wire groups from 820 runs, 1 dotted junctions; labelled ends: 633 mm → R8b, IkB, Swi9, R9o; 605 mm → R89, IkB, 68/6, Lm3oi; 577 mm → PAN, R8b, IkB, R84; 354 mm → IN4ooa, aa; 339 mm → WAAD-Beck, bybteMB, ISS_
 
-Every curve, box, word and wire group: [1984 - M470E - 470-02-006 - PI-P DSSMOD IICKD USED (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-02-006%20-%20PI-P%20DSSMOD%20IICKD%20USED%20(traced).json) (the CAD file: `1984 - M470E - 470-02-006 - PI-P DSSMOD IICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-02-006 - PI-P DSSMOD IICKD USED (traced).json](../SCHEMATICS/1984%20-%20M470E%20-%20470-02-006%20-%20PI-P%20DSSMOD%20IICKD%20USED%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-02-006 - PI-P DSSMOD IICKD USED (traced).dxf`).
 
 ## Full text
 

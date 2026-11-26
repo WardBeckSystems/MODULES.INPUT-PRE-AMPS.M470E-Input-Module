@@ -19,7 +19,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Closed boxes:** 44; named: 10; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22
 - **Words (OCR):** 134 in 101 lines: Pi · SUB RIGHT Out · SUB 4 RIGHT Out · LINE in · SUB · RIGHT Out · SUB · RIGhT · Out · NC · SUB RIGHT Out · SUB
 
-Every curve, box, word and wire group: [1984 - M470E - 470-04-013 - IRECT RIGHT OUT SHELD (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-013%20-%20IRECT%20RIGHT%20OUT%20SHELD%20(traced).json) (the CAD file: `1984 - M470E - 470-04-013 - IRECT RIGHT OUT SHELD (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - 470-04-013 - IRECT RIGHT OUT SHELD (traced).json](../MECHANICAL/1984%20-%20M470E%20-%20470-04-013%20-%20IRECT%20RIGHT%20OUT%20SHELD%20%28traced%29.json) (the CAD file: `1984 - M470E - 470-04-013 - IRECT RIGHT OUT SHELD (traced).dxf`).
 
 ## Full text
 

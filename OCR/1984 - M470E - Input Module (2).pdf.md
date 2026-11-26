@@ -26,7 +26,7 @@ Wiki page: [M470E](../../../../PAGES/M470E.md)
 - **Words (OCR):** 20 in 12 lines: ('NElS] ~!lS SCAA T'EUOF'>'1ONl! · WARD-BECK SYSTEMS LTD. · ONT~ · ;i!x" · e.:s · ,",LEx 06$ "="89 · M470E · INPUT MODULE · ps · BS · tp · ht
 - **Title block:** (112, 394)–(262, 418) mm: ('NElS] ~!lS SCAA T'EUOF'>'1ONl! · WARD-BECK SYSTEMS LTD. · ONT~
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p1 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p1 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -35,7 +35,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p1 (trac
 - **Outlines:** line 274 rings, 2,988 straight (5,836 mm) / 666 curved (1,022 mm); text 213 rings, 1,655 straight (1,898 mm) / 438 curved (718 mm)
 - **Words (OCR):** 72 in 31 lines: WA · CK SYSTEMS LTO. · TABLE OF CONTEHTS · H470EI NPUTI«lOUlE · War ran ty · Tec hnic al Da · Ci rcuit Dnc riptfo · 2-1 to · 2·3 · Hi gh Pus Fil · Parts li st · 4-1 to
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p2 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p2 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p2 (trac
 - **Dots (junctions):** 3
 - **Words (OCR):** 225 in 82 lines: SYS EMS LTD · TECHNICAL-DATA · H470E NPUT MODULE · In put Se nsitivi ti · Une: :lg :fg · Kie Pad · Ie · 60 to -30 dBIl · 150 oh ll sourc · frequency Response: · to Z5 · dB fr om 30 Hz
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p3 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p3 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p3 (trac
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 1.9 @ (215.1, 326.1), r 1.9 @ (196.0, 189.9), r 1.9 @ (268.9, 258.7), r 1.9 @ (159.8, 114.7)
 - **Words (OCR):** 118 in 96 lines: LUiAc · BeCK SYSTEME · 24672' - Nfj= · GRCULL DESCRPIO · mputKOMMm · N47oz · 'acfiittes · Hos input · module prorides · conzleze · aetenualor · Ahanne
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p4 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p4 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p4 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 328 in 79 lines: SYS TEMS LTD. · CIRCUIT DESCRIPTION · M470E INPUT MODUL · Pr Bmpl if er Output Bnd PHASE ReverSB · The ut · put · the filt er feeds th · reamplif ier ut · stag · consisting of 21, Q6, Q7, · Q8 and Q9. The ac tiv el · balanced outp
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p5 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p5 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p5 (trac
 - **Closed boxes:** 2
 - **Words (OCR):** 284 in 80 lines: WA r=lO · STE · LTO. · CIRClJlTDESCRIPTION · H470EIN PlJTHODULE · DIRECT Output · TIle out put si9",1 of the booster lip if · fe eds the DIRECT · ut pu · connector P2 · Thi outpu · esigned
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p6 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p6 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p6 (trac
 - **Closed boxes:** 909
 - **Words (OCR):** 9 in 8 lines: DECK GYSTEME · WAAD · Rus: FLIEC OHViRALTERLSTCS · Yi) · Iafat YQWLE · RIOVINCY · HERTZ · VNBSps
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p7 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p7 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p7 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 220 in 214 lines: YS · EMS · TD · WAR · PARTS · LIST · K470E · INPUTMOOUI.E · NUMBER · PART · OESCRI · PTI
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p8 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p8 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p8 (trac
 - **Closed boxes:** 11
 - **Words (OCR):** 100 in 72 lines: SYS TEMS LTC. · PARTS LIST · H470EINPU'T MOOULE · PART · DESCRI PTIO · MFG · HFG PART NUHBER · 036 · Capa~ fto · 22 · 25 · S1:me ns
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p9 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p9 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p9 (trac
 - **Closed boxes:** 9
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p10 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p10 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p10 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 93 in 71 lines: WAR · CK SYST MS LTD · PARTS LIST · K470E NPUTI«lDll · PART · DESCRIPTi ON · MFG · MFG PART NUMBER · R33 · Re · lrW · 51 15K
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p11 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p11 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p11 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 80 in 56 lines: F=l · YS EM LT · wm..JJ.ll · H470EIN PUTHO DULE · PART DESCRI PTION · HFG PART HUMBER · Res · or · 51 · lf ps · R72 · R73
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p12 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p12 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -155,7 +155,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p12 (tra
 - **Closed boxes:** 10
 - **Words (OCR):** 111 in 88 lines: W"AA C-BECK SYS EMS · PARTS LIST · H470E NPUTI«lOUlE · PART · DESCRI PTIO · HFG · MFG PART · ~8ER · 11. 10 · Rul!to · 51 7S · Ph !1fps
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p13 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p13 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p13 (tra
 - **Words (OCR):** 88 in 56 lines: CK YSTEMS LTC · M470E INPUT MODULE · DESCRIPTION · MFG · PART · FS PART HUPl BER · R141 · Res isto ItW SI · Philips · SWl · SWl} · Swit ch
 - **Title block:** (231, 95)–(266, 261) mm: WBS.II -030 · WB 11 -010 · WBS 11 17 · WBS 11 05 · was 11 -002 · WS5 11 -083 · WBS 11 00 · was 11 -005
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p14 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p14 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p14 (tra
 - **Closed boxes:** 5
 - **Words (OCR):** 56 in 23 lines: WAR · BECK YS TEMS LT · PARTSLlS · K470E INPlfTt«lOlU · "FG · PART DESCRI PTION · HFG PART NUMBER · Int rat td Ci rc uit · "356 · Ul20J · l3 · Z4
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p15 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p15 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p15 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 185 in 78 lines: .,41 · !INPUT · LI. 10000 rc · SE LEC · nput of uni · tch · When ,ened, connect · INI"UT SEUC TOIl; switch SW2, 'lfhlln dep ressed connects · MICROPHOME · to inpl,lt · unit · 0'1"
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p16 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p16 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -202,7 +202,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p16 (tra
 - **Words (OCR):** 117 in 83 lines: Hutoe · HEASh- seeM · Olepy Mem · Wane · {ed tm ] Aancou{ Iy · turetsco · TeytFL0n} · eterm| stered JugmayTER hurlineDures · V.5753 · Anidr · rctoec tat · Mgi#ad
 - **Title block:** (229, 16)–(336, 48) mm: IEEUADan · RE YisiON · WBS · WARD-BeCK SySTems · DRNAD784 · MIZOE · INPUT · MODUlt · FRONT PANEL
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p17 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p17 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -213,7 +213,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p17 (tra
 - **Closed boxes:** 1
 - **Words (OCR):** 6 in 6 lines: f;IC/LINE- · SELECTO" · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p18 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p18 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p18 (tra
 - **Title block:** (190, 13)–(333, 113) mm: REVISION · APP. · [\NBS] WARD-BECK SYSTEMS · ps · M470E · BS · INPUT MODULE · FUNCTIONAL DIAGRAM · tp · ht · ISSUE · 470-01-006
 - **Wiring (first pass):** 125 connected wire groups from 479 runs; labelled ends: 315 mm → [\NBS], FUNCTIONAL; 134 mm → 1--I-w--Jl"N~; 108 mm → [\NBS]; 63 mm → 1--I-w--Jl"N~; 44 mm → [\NBS]
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p19 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p19 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -238,7 +238,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p19 (tra
 - **Closed boxes:** 4
 - **Words (OCR):** 97 in 80 lines: 5W4 · P"C (-20 110) · MIC · dB~ · TO -10 · iso · NOMHJAL · PI-W · MIC SHIELD · PI -ZI,Y · P2 · MIC
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p20 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p20 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -248,7 +248,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p20 (tra
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 1.7 @ (236.8, 256.7), r 1.7 @ (51.3, 323.3), r 1.7 @ (152.6, 328.4), r 1.6 @ (65.6, 375.8)
 - **Words (OCR):** 110 in 84 lines: R2 · 51;,0 · +16 · E.Q UI'.L1 · "ISERT · CI · \-22 · PI· · so · R22 · 100 · CI2
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p21 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p21 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -260,7 +260,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p21 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 76 in 68 lines: Cl · •SOp · 2N.2 10a · WB · R60 · CH"t-lt-lEL · RSO · 18 · IN SE RT · "nENU"TOR · RS2 · P2
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p22 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p22 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -273,7 +273,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p22 (tra
 - **Words (OCR):** 127 in 92 lines: P2 · DIRECT · AIOS · P2·C · (BRIDGE LC" Dl · PHI · PI-] · PI · R60 · PI · F2- · 18
 - **Wiring (first pass):** 147 connected wire groups from 1,138 runs; labelled ends: 1346 mm → tp, (iSIII)'!NA.., ht, JUJ.y; 684 mm → AIOS, 22, M301; 282 mm → f------l---<~; 261 mm → f------l---<~; 245 mm → f------l---<~
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p23 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p23 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p23 (tra
 - **Dots (junctions):** 6
 - **Words (OCR):** 145 in 117 lines: ':ow lS · ~W2 · fU · SW · 'B5 11-031 · -"lXl.ll.-' · .wr:l · (W.]iil · -RII. · II: · 116 · 7-10<4
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p24 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p24 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -297,7 +297,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p24 (tra
 - **Dots (junctions):** 8
 - **Words (OCR):** 87 in 70 lines: MlIl~i'~ · ;1IlJl · _Rn~ll,. tt4 .10' · ..atO · 47 Ja'" · Po'" · 1IIl1l · -'138 · _eto · -clal~ C21-. · 'U,3 -.tf'Crt\- · 'lJ
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p25 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p25 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -307,7 +307,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p25 (tra
 - **Closed boxes:** 44; named: 10; 11; 12; 13; 14; 15; 16; 17; 18; J9; 20; 21
 - **Words (OCR):** 166 in 86 lines: P1 · SUB RIGHT OUT · SUB RIGHT OUT · UNE IN · SUB RIGHT OUT · SUB RIGHT OUT · NC · SUB RIGHT OUT · SUB RIGHT OUT · DIRECT · SUB RIGHT OUT · SUB RIGHT OUT
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p26 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p26 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -319,7 +319,7 @@ Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p26 (tra
 - **Words (OCR):** 117 in 71 lines: P2 · NE IN · li NE IN · NC · NC · DIRECT · DIRECT · SHIELD · SHIELD · ATT · OUT · ATT OUT
 - **Title block:** (115, 13)–(333, 113) mm: ISSUE DATE · REVISION · lAPP. · [VVE3S) WARD-BECK SYSTEMS · DRN. JP./O~ · ps · M470E · ~t..:f · BS · ENG. · INPUT MODULE · CKD. · CONNECTOR REAR VIEW · APP. · tp · SCALE · ht · 470-04-013 · ISfuE
 
-Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p27 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1984 - M470E - Input Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - M470E - Input Module (2) p27 (traced).json](../MANUALS/1984%20-%20M470E%20-%20Input%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1984 - M470E - Input Module (2) p27 (traced).dxf`).
 
 ## Full text
 
