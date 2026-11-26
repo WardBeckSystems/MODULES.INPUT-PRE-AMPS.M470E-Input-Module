@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984 - M470E - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/375561fd0a0fbbe9-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.9, 430.9],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 872, "mm": 2882.2}, "curved": {"n": 130, "mm": 193.8}},
+  "text": {"rings": 114, "straight": {"n": 1241, "mm": 1755.5}, "curved": {"n": 277, "mm": 447.2}},
+  "tb": {"rings": 2, "straight": {"n": 97, "mm": 287.2}, "curved": {"n": 10, "mm": 20.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [117.9, 401.8, 195.0, 411.6], "text": "WARD-BECK"},
+   {"mm": [259.9, 402.0, 283.0, 410.6], "text": "LTD_"},
+   {"mm": [47.9, 392.9, 159.3, 407.6], "text": "WBS 841 PAOGAESS"},
+   {"mm": [160.8, 396.2, 280.7, 402.7], "text": "AVENUE: SCAABOAOUGH ONTARIO M1h2*4"},
+   {"mm": [117.2, 391.0, 170.1, 396.4], "text": "Telex 065-25399"},
+   {"mm": [205.8, 391.0, 280.7, 396.3], "text": "TELEPHONVE 416,438-6550"},
+   {"mm": [145.7, 205.5, 197.5, 220.2], "text": "M47OE"},
+   {"mm": [140.3, 185.2, 202.9, 193.9], "text": "INPUT MODULE"}
+  ]
+ },
+ "title_block": {
+  "mm": [41.3, 384.3, 201.8, 420.2],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK", "WBS 841 PAOGAESS", "Telex 065-25399"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 58 rings, 872 straight (2,882 mm) / 130 curved (194 mm); text 114 rings, 1,241 straight (1,756 mm) / 277 curved (447 mm); tb 2 rings, 97 straight (287 mm) / 10 curved (20.3 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WARD-BECK · LTD_ · WBS 841 PAOGAESS · AVENUE: SCAABOAOUGH ONTARIO M1h2*4 · Telex 065-25399 · TELEPHONVE 416,438-6550 · M47OE · INPUT MODULE",
+  "- **Title block:** (41, 384)–(202, 420) mm: WARD-BECK · WBS 841 PAOGAESS · Telex 065-25399"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984 - M470E - Input Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/e265c9179e556db4-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.6, 336.4, 424.2],
+ "outlines": {
+  "line": {"rings": 553, "straight": {"n": 5632, "mm": 9425.0}, "curved": {"n": 1281, "mm": 2039.3}},
+  "text": {"rings": 13, "straight": {"n": 94, "mm": 101.0}, "curved": {"n": 36, "mm": 53.8}}
+ },
+ "circles": [
+  {"c": [260.0, 301.0], "r": 4.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [317.7, 341.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.6, 200.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [22.7, 327.2], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [244.5, 200.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.9, 385.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [27.3, 268.3], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [228.2, 288.0, 230.8, 291.2], "w": 2.6, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [55.7, 407.6, 106.0, 413.1], "text": "f;IC/LINE-"},
+   {"mm": [61.7, 397.3, 94.3, 406.9], "text": "SELECTO\""},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 6–424 mm up",
+  "- **Outlines:** line 553 rings, 5,632 straight (9,425 mm) / 1,281 curved (2,039 mm); text 13 rings, 94 straight (101 mm) / 36 curved (53.8 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 4.6 @ (260.0, 301.0), r 2.3 @ (317.7, 341.4), r 2.3 @ (226.6, 200.0), r 2.3 @ (22.7, 327.2)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 6 in 6 lines: f;IC/LINE- · SELECTO\" · ps · BS · tp · ht"
+ ]
+}

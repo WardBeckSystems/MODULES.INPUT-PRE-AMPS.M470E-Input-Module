@@ -1,0 +1,94 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984 - M470E - Input Module.pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/375561fd0a0fbbe9-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 336.0, 421.9],
+ "outlines": {
+  "line": {"rings": 74, "straight": {"n": 1230, "mm": 3597.3}, "curved": {"n": 150, "mm": 231.6}},
+  "text": {"rings": 307, "straight": {"n": 2748, "mm": 3230.9}, "curved": {"n": 752, "mm": 1198.5}},
+  "tb": {"rings": 13, "straight": {"n": 55, "mm": 50.0}, "curved": {"n": 11, "mm": 15.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [190.2, 297.7, 192.6, 300.1], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [247.6, 290.8, 250.0, 293.4], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [190.2, 290.8, 192.6, 293.2], "w": 2.4, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [27.9, 415.4, 145.7, 423.5], "text": "WARD-BECK SYSTEMs LTD_"},
+   {"mm": [147.2, 368.8, 182.9, 376.9], "text": "PARTS_ LIST"},
+   {"mm": [133.9, 354.5, 196.5, 362.7], "text": "M4ZOE_INPUT_MOQULE"},
+   {"mm": [40.8, 327.1, 116.4, 335.5], "text": "PART DESCRIPTION"},
+   {"mm": [180.7, 327.7, 194.1, 334.7], "text": "MFG"},
+   {"mm": [233.6, 327.1, 296.6, 335.2], "text": "MEG PART NUMBER"},
+   {"mm": [69.3, 312.8, 112.3, 321.7], "text": "Integrated"},
+   {"mm": [114.9, 314.1, 162.1, 322.8], "text": "circuit"},
+   {"mm": [41.0, 313.5, 50.7, 321.6], "text": "21"},
+   {"mm": [180.7, 314.1, 214.2, 321.1], "text": "Nationa |"},
+   {"mm": [234.3, 313.1, 273.1, 321.2], "text": "LF356"},
+   {"mm": [41.5, 306.6, 50.7, 314.7], "text": "22"},
+   {"mm": [233.6, 306.1, 252.4, 314.3], "text": "LM2O1"},
+   {"mm": [41.0, 300.5, 50.7, 307.5], "text": "23"},
+   {"mm": [41.5, 293.6, 50.7, 300.6], "text": "24"},
+   {"mm": [41.0, 286.7, 51.4, 294.2], "text": "25"},
+   {"mm": [93.9, 271.0, 108.0, 278.6], "text": "2€w"},
+   {"mm": [93.3, 220.2, 107.7, 226.7], "text": "2 3 #"},
+   {"mm": [93.3, 185.7, 107.7, 193.4], "text": "46 \""},
+   {"mm": [41.5, 123.1, 55.5, 130.7], "text": "WbS"},
+   {"mm": [58.1, 123.1, 133.0, 131.0], "text": "recommends the us e"},
+   {"mm": [136.4, 123.5, 145.1, 130.5], "text": "0 f"},
+   {"mm": [148.1, 123.1, 252.0, 131.2], "text": "replacement parts ma de by"},
+   {"mm": [255.2, 123.5, 268.1, 131.2], "text": "the"},
+   {"mm": [270.7, 122.8, 309.6, 131.5], "text": "specified"},
+   {"mm": [41.5, 116.6, 153.7, 123.5], "text": "manufacturers for continued"},
+   {"mm": [156.1, 115.5, 277.4, 125.6], "text": "optimum equipment performance"},
+   {"mm": [165.6, 6.0, 178.5, 13.5], "text": "4 -8"}
+  ]
+ },
+ "title_block": {
+  "mm": [21.1, 114.4, 132.7, 431.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMs LTD_",
+   "PART DESCRIPTION",
+   "Integrated",
+   "21",
+   "22",
+   "23",
+   "24",
+   "25",
+   "2€w",
+   "2 3 #",
+   "46 \"",
+   "WbS",
+   "recommends the us e",
+   "manufacturers for continued"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–422 mm up",
+  "- **Outlines:** line 74 rings, 1,230 straight (3,597 mm) / 150 curved (232 mm); text 307 rings, 2,748 straight (3,231 mm) / 752 curved (1,198 mm); tb 13 rings, 55 straight (50.0 mm) / 11 curved (15.5 mm)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 40 in 28 lines: WARD-BECK SYSTEMs LTD_ · PARTS_ LIST · M4ZOE_INPUT_MOQULE · PART DESCRIPTION · MFG · MEG PART NUMBER · Integrated · circuit · 21 · Nationa | · LF356 · 22",
+  "- **Title block:** (21, 114)–(133, 432) mm: WARD-BECK SYSTEMs LTD_ · PART DESCRIPTION · Integrated · 21 · 22 · 23 · 24 · 25 · 2€w · 2 3 # · 46 \" · WbS · recommends the us e · manufacturers for continued"
+ ]
+}

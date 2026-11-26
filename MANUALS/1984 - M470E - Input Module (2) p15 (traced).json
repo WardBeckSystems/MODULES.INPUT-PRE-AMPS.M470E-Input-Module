@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984 - M470E - Input Module (2).pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/e265c9179e556db4-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 336.0, 421.9],
+ "outlines": {
+  "line": {"rings": 168, "straight": {"n": 2080, "mm": 4661.3}, "curved": {"n": 362, "mm": 562.6}},
+  "text": {"rings": 241, "straight": {"n": 2010, "mm": 2271.5}, "curved": {"n": 564, "mm": 900.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [49.9, 418.2, 52.9, 420.4], "w": 3.1, "h": 2.2, "from": "ring"},
+  {"mm": [190.2, 297.7, 192.6, 300.1], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [247.6, 290.8, 250.0, 293.4], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [87.7, 290.8, 90.0, 293.2], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [190.2, 290.8, 192.6, 293.2], "w": 2.4, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 56,
+  "lines": [
+   {"mm": [29.6, 415.8, 48.6, 421.3], "text": "WAR"},
+   {"mm": [60.5, 415.8, 138.2, 421.3], "text": "BECK YS TEMS LT"},
+   {"mm": [149.6, 369.0, 178.3, 375.2], "text": "PARTSLlS"},
+   {"mm": [135.6, 355.2, 195.2, 361.4], "text": "K470E INPlfTt«lOlU"},
+   {"mm": [182.7, 323.6, 194.1, 335.1], "text": "\"FG"},
+   {"mm": [43.2, 327.3, 118.5, 333.5], "text": "PART DESCRI PTION"},
+   {"mm": [235.8, 327.1, 296.2, 333.3], "text": "HFG PART NUMBER"},
+   {"mm": [71.9, 313.5, 144.9, 320.0], "text": "Int rat td Ci rc uit"},
+   {"mm": [236.0, 312.0, 253.3, 318.5], "text": "\"356"},
+   {"mm": [235.3, 303.1, 254.3, 313.7], "text": "Ul20J"},
+   {"mm": [43.0, 300.1, 48.6, 306.6], "text": "l3"},
+   {"mm": [43.2, 293.4, 51.2, 299.9], "text": "Z4"},
+   {"mm": [42.5, 286.7, 49.0, 293.0], "text": "IS"},
+   {"mm": [42.3, 123.1, 99.1, 129.5], "text": "\\ISS r-ec eeee nes"},
+   {"mm": [104.5, 123.1, 303.3, 129.5], "text": "th use of nplact lllent part made by the sp ec fie"},
+   {"mm": [157.8, 116.4, 180.9, 123.1], "text": "op II\","},
+   {"mm": [42.1, 116.4, 106.4, 122.8], "text": ":aanufacturers fo"},
+   {"mm": [121.1, 116.4, 149.0, 122.8], "text": "ont nue"},
+   {"mm": [190.6, 116.4, 274.6, 122.8], "text": "equ ip ment perfortlance"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–422 mm up",
+  "- **Outlines:** line 168 rings, 2,080 straight (4,661 mm) / 362 curved (563 mm); text 241 rings, 2,010 straight (2,272 mm) / 564 curved (900 mm)",
+  "- **Closed boxes:** 5",
+  "- **Words (OCR):** 56 in 23 lines: WAR · BECK YS TEMS LT · PARTSLlS · K470E INPlfTt«lOlU · \"FG · PART DESCRI PTION · HFG PART NUMBER · Int rat td Ci rc uit · \"356 · Ul20J · l3 · Z4"
+ ]
+}

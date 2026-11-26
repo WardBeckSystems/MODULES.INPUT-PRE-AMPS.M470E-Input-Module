@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984 - M470E - Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/e265c9179e556db4-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.9, 430.9],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 1184, "mm": 3434.1}, "curved": {"n": 169, "mm": 260.7}},
+  "text": {"rings": 96, "straight": {"n": 951, "mm": 1402.8}, "curved": {"n": 223, "mm": 358.3}},
+  "tb": {"rings": 9, "straight": {"n": 108, "mm": 108.7}, "curved": {"n": 32, "mm": 49.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [42.1, 390.8, 237.1, 408.8], "text": "('NElS] ~!lS SCAA T'EUOF'>'1ONl!"},
+   {"mm": [118.3, 402.2, 284.3, 409.7], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [231.2, 396.4, 254.1, 401.2], "text": "ONT~"},
+   {"mm": [269.4, 396.4, 280.2, 401.0], "text": ";i!x\""},
+   {"mm": [266.0, 390.3, 272.7, 395.1], "text": "e.:s"},
+   {"mm": [118.1, 390.8, 169.9, 394.9], "text": ",\",LEx 06$ \"=\"89"},
+   {"mm": [146.8, 205.3, 195.8, 217.6], "text": "M470E"},
+   {"mm": [141.4, 185.7, 201.7, 192.2], "text": "INPUT MODULE"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [111.5, 393.6, 262.2, 418.3],
+  "from": "title-block words (training set)",
+  "text": ["('NElS] ~!lS SCAA T'EUOF'>'1ONl!", "WARD-BECK SYSTEMS LTD.", "ONT~"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 76 rings, 1,184 straight (3,434 mm) / 169 curved (261 mm); text 96 rings, 951 straight (1,403 mm) / 223 curved (358 mm); tb 9 rings, 108 straight (109 mm) / 32 curved (49.4 mm)",
+  "- **Words (OCR):** 20 in 12 lines: ('NElS] ~!lS SCAA T'EUOF'>'1ONl! · WARD-BECK SYSTEMS LTD. · ONT~ · ;i!x\" · e.:s · ,\",LEx 06$ \"=\"89 · M470E · INPUT MODULE · ps · BS · tp · ht",
+  "- **Title block:** (112, 394)–(262, 418) mm: ('NElS] ~!lS SCAA T'EUOF'>'1ONl! · WARD-BECK SYSTEMS LTD. · ONT~"
+ ]
+}
