@@ -13,6 +13,62 @@ Ward-Beck Systems M470E, 1984|17. Wiki page: [M470E on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 29 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Circuit description
+
+From [1984 - M470E - Input Module (2).pdf](MANUALS/1984%20-%20M470E%20-%20Input%20Module%20(2).pdf) pages 4-8 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The 14470E input module provides there c t f t t tes o f a COllplete input. ixin g channel with the exception oft he a tt enuato rand an optional external equalizer.
+
+In.m INPUT Selectors witches Sill, SII2 and SII] allow a choice of inputs election between one line and two microphone f nput s. Additionally, SW 4 provides the insertion of a 20 dB loss pad fort he microphone sources. When operating from a MICROPHONEs our c e, the fnput impedance of the unit is substantially higher than the source impedance. Int he LINE position, the H410B presents abridging f mped a nce of ]Ok oh. t o the source. All inputs tot he module are trans for. e r coupled t o the prea mp l ifier.
+
+Pr ea ll pl i ff e r The secondary side of the input tra&quot;sfor ller Tlc o nnec t s to the pr eamp li fie r input sect ion, c ompr f sing Ql through Q5 with their e s s oct ate d components. SENSITIVITY control 11.26 allows continuous level adjustment of all input signals over a range of ] 0 dB. The SENSITIVITY control thus permits opera t ion with microphone input levels fr olll -60 to -30 dBm int he direct node, and with levels f rOIl -40 to -10 dBm when the PAD is inserted. S1l1f la r l y, ll ne levels f rOIl -10 dBll t o +20 dBIi can be a c cOllmodated in the LINE e ee e.
+
+Egualiz e r Insert Following Q4 and Q5, the signal is brought out to connector PI, p t n 22 andre turned tot he unit via Pl. p1n Z. This insert point lIla y be used to insert the M472 equalize r into the signal path.
+
+HI GHPASS Filter
+
+Following PI. pin Z, a 12 dB/octave HIGH-PASS ftlte r is
+
+integrated into the pr ulIl plf f h r. Three distinct cutoff
+
+frequencies can be selected. By pressing 5W5, 5W6 o r both
+
+switches s i mult a neo us l y, the -3 dB r olloff point 100'11 1 be located at 10 Hz, 100 Hz o r 150 Hz respect t vej y.
+
+Pr e Bmpl if i er Output Bnd PHASE ReverSB 1 The output o f the filter feeds the p reamplif ier output stage. consisting of 21, Q6, Q7, z a, Q8 and Q9. The actively balanced output is subsequently routed through the PHASE rev e r sal switch tot h ein s e r t point.
+
+INSERT Point 1.. balanced INSERT point 15 provided between P2. pins 8/J and Pl. pins 6 / F to allow the use of insert jacks. perllitting the insertion of ancillary e q u f pe en t into the signal path. The INSERT point is followed by the CHANNEL ON switch.
+
+CHANHE lON Switch The CHANNEL ON switch s waco nt r o ls all outputs o f the module with thee xc e p t ton of the PFL output.
+
+PR::FAOE-liSTEN (PH) and PEAK Overload Indicator The bridging takeoff forth e PFl output and the PEAk. o...e rloa d indicator is picked up between the INSERT point and the CHANNEL ON switch. 2J operates a s a...01 tage c Ollp ara tor. It ce epe r-es the rectified audio signal with an externally supplied reference voltage, applied to connector Pl, pin 16. With there fe re nc e...o ltage ranging f roll 0 to approx i lute l y +10 volts, c a I1b rat lon of the overload point fr oll -6 dill to +27 dBm is possible. PEAK overload is indicB ted on OS2.
+
+Followings wa, the signal is brought out of the module via Pl, pins 7/H for insert ion of a balanced fader. The output of the fader is return e d to the Illoclule on P2, pins 5/E. The inputs ide oft he fader also supplies the feed for the four PREFAOE AUXILIARY channels via switches SW9 through SWI2.
+
+Sooste r AlIlplHhr
+
+24 and Z5 c eep e t seth e booster alllpl1 r r er, operating at again
+
+of 15 dB. The booster recovers the loss incur red &gt;/1th the
+
+fade r placed in its nominal 15 dB fti n _ha nd position.
+
+CIRClJlTDESCRIPTION H470EIN PlJTHODULE
+
+DIRECT Output TIle out put si9&quot;,1 of the booster I lip l if i e r feeds the DIRECT output I t connector P2, pins 3 / e. This output i s designed to c per e t ein to abridging load of 10k ohms or higher. The nominal level of the DIRECT output is 0 dBm.
+
+SlJBHASTER and AUXILIARY Outputs The booster amp l if i era ls o provides the feeds for the left Ind right SUBMASTER outputs via PAN swftch SW13 and PAN control RB4 through R8 7. Addit ionll feeds ares u pp lied to the SOLO output via SW22 In(l tot he four AUXILIARY outputs when in the POSTFAO£ mode. With the exception of the DIRECT output, all out puts are designed as 30 1: ohlll currents ourc es, t o operate into zero impedance summing nodes. Each summing output is equipped with its own assignment switch. Control Functions DC control and logic Illl,lt ing functions are pr:.o v ided through the &quot;I e / LINE INPUT Selectors wft c hes and the CHANNEL ON switch to facl1 itate studio mute control functions. to minimizes y stem transients, the de current i n these circuits should be limited to 1 rnA. Further control contacts are provided on the SOLO switch SW22 as well as on all SIJBM ASTER assignments e t t che s.
+
+Power Supply Deco uplin9 Power supply de coupling isp r o v i ded by OlD, Qll and their u s ocfa ted cc e po nent s • The dec oup ling network reduces the module voltage to +20 volts fro lll the nOlJli nal supply voltage of 1&quot;25 volts.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
