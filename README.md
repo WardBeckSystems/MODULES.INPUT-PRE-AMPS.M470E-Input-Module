@@ -1,16 +1,16 @@
-# M470E · Input Pre Amps
+# M470E Input Module · Input Pre Amps
 
 Ward-Beck Systems M470E, 1984|17. Wiki page: [M470E on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M470E.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 182 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 183 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 29 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -76,15 +76,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTDI5b0FmajRRUHc/view?resourcekey=0-tL4oLIVFPysldQGpd7lSww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTDI5b0FmajRRUHc&resourcekey=0-tL4oLIVFPysldQGpd7lSww" width="240" alt="1984 - M470E - 470-04-013 - IRECT RIGHT OUT SHELD.jpg"></a><br><sub>1984|17 · 470-04-013 - IRECT RIGHT OUT SHELD · <a href="MECHANICAL/1984%20-%20M470E%20-%20470-04-013%20-%20IRECT%20RIGHT%20OUT%20SHELD%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRzNoVExEV3VaaWs/view?resourcekey=0-cMIBICPwlgxrTeTELlFJMw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRzNoVExEV3VaaWs&resourcekey=0-cMIBICPwlgxrTeTELlFJMw" width="240" alt="1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID.jpg"></a><br><sub>1984|17 · 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID · <a href="MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20SWZI%20NHEN%20DEPRESSED%20NDPIGHT%20OUTPUT%20FED%20TANEOUS%20VID%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaS1OVUJ4cUNRbmM/view?resourcekey=0-t7w2EymkNIYlv1Q3p7Xjyg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaS1OVUJ4cUNRbmM&resourcekey=0-t7w2EymkNIYlv1Q3p7Xjyg" width="240" alt="1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE.jpg"></a><br><sub>1984|17 · 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE · <a href="MECHANICAL/1984%20-%20M470E%20-%20470-04-014%20-%20WHEN%20DEPRESSED%20ENABLES%20PAN%20CONTROL%20AUX%20PRE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M470E.stl`](MECHANICAL/M470E.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M470E)
-
-- **Size:** 66.71 × 420.79 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 30 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M470E - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M470E.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -188,6 +179,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1984 - M470E - Input Module (2) p23.kicad_sch](KICAD/1984%20-%20M470E%20-%20Input%20Module%20(2)%20p23.kicad_sch)
 - [1984 - M470E - Input Module p19.kicad_sch](KICAD/1984%20-%20M470E%20-%20Input%20Module%20p19.kicad_sch)
 - [M470E.kicad_sym](KICAD/M470E.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
