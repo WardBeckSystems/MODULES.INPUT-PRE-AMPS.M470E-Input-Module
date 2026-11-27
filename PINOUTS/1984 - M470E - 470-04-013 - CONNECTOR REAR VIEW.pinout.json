@@ -1,0 +1,614 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1984 - M470E - 470-04-013 - CONNECTOR REAR VIEW.jpg",
+  "module": "M470E",
+  "applies_to": [
+    "M470E"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "470-04-013",
+    "title": "M470E INPUT MODULE CONNECTOR REAR VIEW",
+    "date": "1984-07",
+    "issue": "1",
+    "drawn": "JP"
+  },
+  "connectors": [
+    {
+      "name": "P2",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P2",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "LINE IN",
+      "signal": "LINE IN",
+      "kind": "in",
+      "port": "LINE IN",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "LINE IN",
+      "signal": "LINE IN",
+      "kind": "in",
+      "port": "LINE IN",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "ATT OUT",
+      "signal": "ATT OUT",
+      "kind": "out",
+      "port": "ATT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "ATT OUT",
+      "signal": "ATT OUT",
+      "kind": "out",
+      "port": "ATT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "CH ON IN",
+      "signal": "CH ON IN",
+      "kind": "control_in",
+      "port": "CH ON IN",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "CH ON IN",
+      "signal": "CH ON IN",
+      "kind": "control_in",
+      "port": "CH ON IN",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "…H ON OUT (cut off)",
+      "signal": "CH ON OUT",
+      "kind": "control_out",
+      "port": "CH ON OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "CH ON OUT",
+      "signal": "CH ON OUT",
+      "kind": "control_out",
+      "port": "CH ON OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "PRE OUT",
+      "signal": "PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "PRE OUT",
+      "signal": "PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "SUB 3 CTL",
+      "signal": "SUB 3 CONTROL",
+      "kind": "control_in",
+      "port": "SUB 3 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "SUB 2 CTL",
+      "signal": "SUB 2 CONTROL",
+      "kind": "control_in",
+      "port": "SUB 2 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "SUB 1 CTL",
+      "signal": "SUB 1 CONTROL",
+      "kind": "control_in",
+      "port": "SUB 1 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "SUB 4 CTL",
+      "signal": "SUB 4 CONTROL",
+      "kind": "control_in",
+      "port": "SUB 4 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "…B CTL COM (cut off)",
+      "signal": "SUB CTL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "SUB CTL COM",
+      "signal": "SUB CTL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "…X CONTACT (cut off)",
+      "signal": "CH ON AUX CONTACT",
+      "kind": "control_out",
+      "port": "CH ON AUX CONTACT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "CH ON AUX CONTACT",
+      "signal": "CH ON AUX CONTACT",
+      "kind": "control_out",
+      "port": "CH ON AUX CONTACT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "… MUTE CTL (cut off)",
+      "signal": "? MUTE CONTROL",
+      "kind": "control_in",
+      "port": "T MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "… MUTE CTL (cut off)",
+      "signal": "? MUTE CONTROL",
+      "kind": "control_in",
+      "port": "U MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "MIC 2 MUTE CTL",
+      "signal": "MIC 2 MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MIC 2 MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "… SOLO CTL (cut off)",
+      "signal": "SOLO CONTROL",
+      "kind": "control_in",
+      "port": "SOLO CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "…N CTL COM (cut off)",
+      "signal": "? CTL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "…E CTL COM (cut off)",
+      "signal": "? CTL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "…H ON LAMP (cut off)",
+      "signal": "CH ON LAMP",
+      "kind": "control_out",
+      "port": "CH ON LAMP",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "LINE IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P2-A",
+          "P2-1"
+        ]
+      }
+    },
+    {
+      "name": "DIRECT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-C",
+          "P2-3"
+        ]
+      }
+    },
+    {
+      "name": "ATT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-E",
+          "P2-5"
+        ]
+      }
+    },
+    {
+      "name": "CH ON IN",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": [
+          "P2-F",
+          "P2-6"
+        ]
+      }
+    },
+    {
+      "name": "CH ON OUT",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": [
+          "P2-H",
+          "P2-7"
+        ]
+      }
+    },
+    {
+      "name": "PRE OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-J",
+          "P2-8"
+        ]
+      }
+    },
+    {
+      "name": "SUB 3 CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-M"
+      }
+    },
+    {
+      "name": "SUB 2 CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-N"
+      }
+    },
+    {
+      "name": "SUB 1 CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-P"
+      }
+    },
+    {
+      "name": "SUB 4 CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-13"
+      }
+    },
+    {
+      "name": "CH ON AUX CONTACT",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": [
+          "P2-S",
+          "P2-15"
+        ]
+      }
+    },
+    {
+      "name": "T MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-T"
+      }
+    },
+    {
+      "name": "U MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-U"
+      }
+    },
+    {
+      "name": "MIC 2 MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-17"
+      }
+    },
+    {
+      "name": "SOLO CTL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-V"
+      }
+    },
+    {
+      "name": "CH ON LAMP",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": "P2-Z"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "The scan is cut off on the left: P1 (if drawn) is missing entirely, and the left-hand labels of P2 rows H and M-Z lose their first letters",
+    "P2 T and U left labels read only '... MUTE CTL' (which mute - e.g. MIC 1 - is cut off)",
+    "P2 W left '...N CTL COM' and X left '...E CTL COM' - prefix cut off (possibly CH ON / MUTE CTL COM)",
+    "P2 R left '...B CTL COM' read as SUB CTL COM, S left '...X CONTACT' read as CH ON AUX CONTACT, Z left '...H ON LAMP' read as CH ON LAMP, H left as CH ON OUT - completed from the matching right-hand labels / wording, not seen in full",
+    "ENG. and CKD. are illegible signatures"
+  ],
+  "confidence": "medium",
+  "notes": "Only P2 (LOWER) is on this picture. Letter and number contacts each labelled on their own side; every contact is its own entry (also = opposite contact). DRN. JP/07/84, size B, ISS 1. PRE OUT (J/8) and ATT OUT (E/5) may be patch points but nothing is labelled an insert. Y = +24V, 21 = +25V."
+}

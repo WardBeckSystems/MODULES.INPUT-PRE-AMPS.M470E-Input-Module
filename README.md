@@ -98,75 +98,61 @@ Not on Google Drive yet: `M470E - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts, 22 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 18 of 20 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P2-5: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN + (in)
+- disagree P2-E: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN - (in)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | M2 OUT | out | A3 + | high |
-| 1 | LINE IN | in | A1 + | high |
-| 2 |  | unread |  | low |
-| 2 | NC | nc |  | medium |
-| 3 | CTL COM | ground |  | high |
-| 3 | DIRECT OUT | out | A4 + | high |
-| 4 | ON LAMP | control |  | high |
-| 4 | SHIELD | ground |  | medium |
-| 5 | FADER RETURN | in | B4 + | high |
-| 6 | INSERT RETURN | in | B2 + | high |
-| 7 | CH ON SWITCH OUT | control | B3 + | high |
-| 8 | INSERT OUT | out | B1 + | high |
-| 9 | NC | nc |  | medium |
-| 10 | NC | nc |  | high |
-| 10 | NC | nc |  | medium |
-| 11 | NC | nc |  | medium |
-| 12 | NC | nc |  | high |
-| 12 | NC | nc |  | medium |
-| 13 | SUB 4 CTL | control |  | high |
-| 13 | SUB 4 CTL | control |  | medium |
-| 14 | SUB CTL COM | ground |  | high |
-| 14 | SUB CTL COM | ground |  | medium |
-| 15 | CH ON AUX CONTACT | control |  | high |
-| 15 | CH ON AUX CONTACT | control |  | medium |
-| 16 | CTL COM | ground |  | high |
-| 16 | CTL COM | ground |  | medium |
-| 17 | MIC 2 MUTE CTL | control |  | high |
-| 17 | MIC MUTE CTL | control |  | medium |
-| 18 | CTL COM | ground |  | high |
-| 18 | COMMON | ground |  | high |
-| 19 | MIC IN 1 | in | A2 + | high |
-| 19 | -25 V | power |  | high |
-| 20 | 25V COM | ground |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25V 22 CHASSIS (LOWER) | ground |  | high |
-| 21 | +25 V | power |  | high |
-| 22 | EQUAL IN | in |  | high |
-| 22 |  | unread |  | low |
-| 22 | CHASSIS | ground |  | high |
-| A | M2 OUT | out | A3 - | high |
-| A | LINE IN | in | A1 - | high |
-| B | NC B | other |  | medium |
-| C | DIRECT OUT | out | A4 - | high |
-| D | SHIELD | ground |  | medium |
-| E | FADER RETURN | in | B4 - | high |
-| F | INSERT RETURN | in | B2 - | high |
-| H | CH ON SWITCH OUT | control | B3 - | high |
-| J | INSERT OUT | out | B1 - | high |
-| K | NC K | other |  | medium |
-| L | NC L | other |  | medium |
-| M |  | unread |  | low |
-| N | UB 2 CTL N | control |  | medium |
-| P | UB CTL P | control |  | medium |
-| R | CTL COM R | ground |  | medium |
-| S | CONTACT | control |  | medium |
-| T | MUTE CTL T | control |  | medium |
-| U | MUTE CTL U | control |  | medium |
-| V | SOLO CTL V | control |  | medium |
-| W | MIC IN 1 | in | A2 - | high |
-| W | CTL COM W | ground |  | medium |
-| X |  | unread |  | low |
-| Y | +24 V | power |  | high |
-| Z | 4 ON LAMP | control |  | medium |
+| 1 | LINE IN | in | LINE IN | medium |
+| 2 | N/C | nc |  | medium |
+| 3 | DIRECT OUT | out | DIRECT | medium |
+| 4 | SHIELD | shield |  | medium |
+| 5 | ATT OUT | out | ATT OUT | medium |
+| 6 | CH ON IN | control_in | CH ON IN | medium |
+| 7 | CH ON OUT | control_out | CH ON OUT | medium |
+| 8 | PRE OUT | out | PRE OUT | medium |
+| 9 | N/C | nc |  | medium |
+| 10 | N/C | nc |  | medium |
+| 11 | N/C | nc |  | medium |
+| 12 | N/C | nc |  | medium |
+| 13 | SUB 4 CONTROL | control_in | SUB 4 CTL | medium |
+| 14 | SUB CTL COMMON | ground |  | medium |
+| 15 | CH ON AUX CONTACT | control_out | CH ON AUX CONTACT | medium |
+| 16 | CONTROL COMMON | ground |  | medium |
+| 17 | MIC 2 MUTE CONTROL | control_in | MIC 2 MUTE CTL | medium |
+| 18 | CONTROL COMMON | ground |  | medium |
+| 19 | -25 V | power |  | medium |
+| 20 | 25 V COMMON | ground |  | medium |
+| 21 | +25 V | power |  | medium |
+| 22 | CHASSIS | ground |  | medium |
+| A | LINE IN | in | LINE IN | medium |
+| B | N/C | nc |  | medium |
+| C | DIRECT OUT | out | DIRECT | medium |
+| D | SHIELD | shield |  | medium |
+| E | ATT OUT | out | ATT OUT | medium |
+| F | CH ON IN | control_in | CH ON IN | medium |
+| H | CH ON OUT | control_out | CH ON OUT | medium |
+| J | PRE OUT | out | PRE OUT | medium |
+| K | N/C | nc |  | medium |
+| L | N/C | nc |  | medium |
+| M | SUB 3 CONTROL | control_in | SUB 3 CTL | medium |
+| N | SUB 2 CONTROL | control_in | SUB 2 CTL | medium |
+| P | SUB 1 CONTROL | control_in | SUB 1 CTL | medium |
+| R | SUB CTL COMMON | ground |  | medium |
+| S | CH ON AUX CONTACT | control_out | CH ON AUX CONTACT | medium |
+| T | ? MUTE CONTROL | control_in | T MUTE CTL | medium |
+| U | ? MUTE CONTROL | control_in | U MUTE CTL | medium |
+| V | SOLO CONTROL | control_in | SOLO CTL | medium |
+| W | ? CTL COMMON | ground |  | medium |
+| X | ? CTL COMMON | ground |  | medium |
+| Y | +24 V | power |  | medium |
+| Z | CH ON LAMP | control_out | CH ON LAMP | medium |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.2 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.20.18 · Insert +: JMP.8.6 · Insert -: JMP.J.F · Fader +: JMP.7.5 · Fader - : JMP.H.E · EQ BYPASS: JMP.Z.22
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.2: P2-W P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.20.18: P2-20 P2-18 · JMP.8.6: P2-8 P2-6 · JMP.J.F: P2-J P2-F · JMP.7.5: P2-7 P2-5 · JMP.H.E: P2-H P2-E · JMP.Z.22: P1-Z P1-22
 
 ## Manuals and documents
 
