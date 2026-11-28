@@ -1,5 +1,5 @@
 # 1984 - M470E - 470-04-014 - SWZI NHEN DEPRESSED NDPIGHT OUTPUT FED TANEOUS VID.jpg
-Wiki page: [M470E](../../../../PAGES/M470E.md)
+Wiki page: [M470E](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

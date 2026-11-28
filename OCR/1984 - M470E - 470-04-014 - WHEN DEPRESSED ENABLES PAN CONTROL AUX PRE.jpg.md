@@ -1,5 +1,5 @@
 # 1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE.jpg
-Wiki page: [M470E](../../../../PAGES/M470E.md)
+Wiki page: [M470E](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

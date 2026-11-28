@@ -1,5 +1,5 @@
 # 1984 - M470E - 8470-06-005 - SOC UHZ MATT JLDER SIDE.jpg
-Wiki page: [M470E](../../../../PAGES/M470E.md)
+Wiki page: [M470E](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

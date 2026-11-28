@@ -1,5 +1,5 @@
 # 1984 - M470E - Input Module (2).pdf
-Wiki page: [M470E](../../../../PAGES/M470E.md)
+Wiki page: [M470E](../)
 
 
 - **Year:** 1984 (found in this file: "MANUAL ISSU E II BS W July 1984")

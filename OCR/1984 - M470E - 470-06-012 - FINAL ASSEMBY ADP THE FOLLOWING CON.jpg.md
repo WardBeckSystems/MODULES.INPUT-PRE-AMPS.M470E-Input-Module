@@ -1,5 +1,5 @@
 # 1984 - M470E - 470-06-012 - FINAL ASSEMBY ADP THE FOLLOWING CON.jpg
-Wiki page: [M470E](../../../../PAGES/M470E.md)
+Wiki page: [M470E](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))
